@@ -1,0 +1,2 @@
+# Py_liepin_jobname_spider
+基于Python requests爬取猎聘网招聘岗位数据
